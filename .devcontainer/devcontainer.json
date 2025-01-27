@@ -7,7 +7,7 @@
           "go.gopath": "/go"
         },
         "extensions": [
-          "golang.Go"
+          "golang.go"
         ]
       }
     }
